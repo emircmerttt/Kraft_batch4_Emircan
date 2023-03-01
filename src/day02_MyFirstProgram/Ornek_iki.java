@@ -1,4 +1,4 @@
-package day_02_MyFirstProgram;
+package day02_MyFirstProgram;
 
 public class Ornek_iki {
 
