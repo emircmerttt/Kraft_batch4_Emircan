@@ -1,4 +1,4 @@
-files & thier extensions:
+files & their extensions:
 			text file  					.txt
             PDF files					.pdf
             Pictures					.jpg, .png .gif, .tiff, etc
@@ -58,4 +58,4 @@ files & thier extensions:
         System.out.println() : used for regular outputs (Black- Siyah )
         System.err.println() : used for printing error messages ( Red Kirmizi)
 
-        Java is Case-Sensitive Language.
+        Java is Case-Sensitive Language. Kucuk harf buyuk harf duyarli

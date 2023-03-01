@@ -1,4 +1,4 @@
-files & thier extensions:
+files & their extensions:
 			text file  					.txt
             PDF files					.pdf
             Pictures					.jpg, .png .gif, .tiff, etc
