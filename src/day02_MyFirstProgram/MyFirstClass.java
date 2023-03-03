@@ -9,6 +9,9 @@ public class MyFirstClass {
         System.out.println();
         System.out.println("Bugün");
 
+
+
+
     }
 
 }
