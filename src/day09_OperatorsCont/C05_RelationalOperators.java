@@ -48,7 +48,7 @@ public class C05_RelationalOperators {
         boolean result8 = 'A'=='a';
         System.out.println("result8 = " + result8);
 
-        boolean result9 = "Java"=="Java";      // Stringlerde == kullanilmaz
+        boolean result9 = "Java"=="Java";      // Stringlerde karsilastirmada  == kullanilmaz!!!!! Sebebini sonra gorecegiz
         System.out.println("result9 = " + result9);
 
         System.out.println("-------------------------------");
@@ -58,7 +58,7 @@ public class C05_RelationalOperators {
         boolean result11 = 200!=200;
         System.out.println("result11 = " + result11);
 
-        boolean result12 = "Java" != "Zor";    //Stringlerde esitlik == ile yapilmaz!!!!!
+        boolean result12 = "Java" != "Zor";    //Stringlerde karsilastirmada != kullanilmaz !!!!! Sebebini sonra gorecegiz
         System.out.println("result12 = " + result12);
 
 

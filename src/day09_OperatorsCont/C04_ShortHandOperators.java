@@ -60,33 +60,31 @@ public class C04_ShortHandOperators {
         System.out.println("----------------------------------------");
 
         double num2 = 50000.0;
-        num2 /=2;
-        System.out.println("num2: "+num2);
+        num2 /= 2;
+        System.out.println("num2: " + num2);
 
         System.out.println("----------------------------------------");
 
         double num3 = 100;
-        num3 %=3;                   //num3 = num3%3
+        num3 %= 3;                   //num3 = num3%3
         System.out.println("num3 = " + num3);
 
         System.out.println("----------------------------------------");
         int odenecekTutar = 1130;
         System.out.println("odenecekTutar = " + odenecekTutar);
 
-        int ikiyuzluk = 1130/200;
-        odenecekTutar %=200;
+        int ikiyuzluk = 1130 / 200;
+        odenecekTutar %= 200;
         System.out.println("odenecekTutar = " + odenecekTutar);
-        int yuzluk = odenecekTutar/100;
-        odenecekTutar %=100;
-        int yirmilik = odenecekTutar/20;
-        odenecekTutar %=20;
-        int onluk =odenecekTutar/10;
-        odenecekTutar %=10;
+        int yuzluk = odenecekTutar / 100;
+        odenecekTutar %= 100;
+        int yirmilik = odenecekTutar / 20;
+        odenecekTutar %= 20;
+        int onluk = odenecekTutar / 10;
+        odenecekTutar %= 10;
 
-        System.out.println("1130TL icin: "+ikiyuzluk+" tane ikiyuzluk banknot "+yuzluk+" yuzluk banknot "+
-                yirmilik+" tane yirmilik banknot "+ onluk+" tane onluk banknot odemeniz gerekmektedir.");
-
-
+        System.out.println("1130TL icin: " + ikiyuzluk + " tane ikiyuzluk banknot " + yuzluk + " yuzluk banknot " +
+                yirmilik + " tane yirmilik banknot " + onluk + " tane onluk banknot odemeniz gerekmektedir.");
 
 
     }

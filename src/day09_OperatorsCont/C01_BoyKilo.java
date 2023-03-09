@@ -13,10 +13,10 @@ public class C01_BoyKilo {
 
         Scanner input = new Scanner(System.in);
 
-        System.out.println("Boyunuzu giriniz (ornek 1.78) : ");
+        System.out.println("Boyunuzu giriniz (Ornek : 1.78) : ");
         double boy = input.nextDouble();
 
-        System.out.println("Kilonuzu giriniz : ornek(80.5)");
+        System.out.println("Kilonuzu giriniz (Ornek : 80.5) : ");
         double kilo = input.nextDouble();
 
         System.out.println("Lutfen isminizi giriniz :");
@@ -26,7 +26,7 @@ public class C01_BoyKilo {
         System.out.println("Soyisminizi giriniz :");
         String soyisim = input.nextLine();
 
-        System.out.println(isim+" "+" boyunuz: "+boy+" m kilonuz: "+kilo+" kg");
+        System.out.println(isim + " " + " boyunuz: " + boy + " m kilonuz: " + kilo + " kg");
 
 
     }
