@@ -1,4 +1,4 @@
-package day04_VariableCont;
+package day04_VariablesCont;
 
 public class NarrowingCasting {
     public static void main(String[] args) {

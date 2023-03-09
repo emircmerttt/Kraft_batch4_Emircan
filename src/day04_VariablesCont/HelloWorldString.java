@@ -1,4 +1,4 @@
-package day04_VariableCont;
+package day04_VariablesCont;
 
 public class HelloWorldString {
     public static void main(String[] args) {

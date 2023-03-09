@@ -1,4 +1,4 @@
-package day04_VariableCont;
+package day04_VariablesCont;
 
 public class EmployeeInfo {
     public static void main(String[] args) {
