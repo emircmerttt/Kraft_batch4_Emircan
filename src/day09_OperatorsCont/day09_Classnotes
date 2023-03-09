@@ -61,9 +61,7 @@ Relational Operators (>,<,>=,<=,==,!=)
 
 
 
-
-
-
+    // ODEVLER Mutlaka yapilsin arkadaslar, iki tanecik sadece console ciktilari study-room-1 atilsin.
    TASKS:
    1. /*
       create a class named FlightTicket, and declare the following
