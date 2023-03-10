@@ -12,7 +12,7 @@ Unary Operators
     ++; increases teh value by one
     --: decreases the value by one
 
-    Post vs Pre
+    Post vs Pre increment and decrement
      Pre: changes the value immediately
      ++a;
      --a;
