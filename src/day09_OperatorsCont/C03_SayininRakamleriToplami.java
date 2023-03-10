@@ -11,8 +11,8 @@ public class C03_SayininRakamleriToplami {
         Scanner scan = new Scanner(System.in);
         System.out.println("Lutfen 3 basamakli pozitif bir sayi giriniz");
 
-        int number = scan.nextInt();    //142   --> 1+ 4+ 2= 7
-        int lastDigit = number % 10;      // lastDigit=2
+        int number = scan.nextInt();    // 142   --> 1+ 4+ 2= 7
+        int lastDigit = number % 10;    //  lastDigit=2
         int totalOfDigits = lastDigit;  //2
 
         number = number / 10;  //14
