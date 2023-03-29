@@ -2,7 +2,7 @@ package day09_OperatorsCont;
 
 import java.util.Scanner;
 
-public class C01_BoyKilo {
+public class  C01_BoyKilo {
 
     public static void main(String[] args) {
 
